@@ -1,0 +1,2 @@
+Readme
+We will try to demonstrate the Support vector machine on breast cancer classification. We used sklearn's module, some feature engineering and gridsearch cv for hyper parameter tuning
